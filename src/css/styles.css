@@ -20,8 +20,9 @@ body {
 }
 
 .country__wrapper,
-.country-list__item.country-list__item {
+.country-list__item {
   display: flex;
+  align-items: center;
   gap: 10px;
 }
 
